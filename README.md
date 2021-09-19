@@ -11,7 +11,7 @@
 <p align="left">
   <p align="center">
   <a target="_blank"href="https://linkedin.com/in/lorena cohene baez"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt="lorena cohene baez" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:loreley.cb15@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="lorena cohene baez" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:loreley.cb15@gmail.com?Subject=Hola%vengo%de&GitHub"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="lorena cohene baez" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://github.com/LorenaCoheneBaez"><img src="https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=GitHub&logoColor=white alt="lorena cohene baez" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 </p>

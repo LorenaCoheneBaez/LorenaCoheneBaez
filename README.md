@@ -3,7 +3,7 @@
 
 <h3 align="center">Desarrolladora web de Argentina</h3>
 
-- 🌱 Actualmente estoy aprendiendo **desarrollo web full stack en Digital House**
+- 🌱 Actualmente estoy aprendiendo **desarrollo web full stack en Digital House.**
 
 - ⚡ Un poco más sobre mí: **Me encanta leer, participar en maratones de lectura, las manualidades y la jardinería.**
 

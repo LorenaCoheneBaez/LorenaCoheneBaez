@@ -1,17 +1,17 @@
-<h1 align="center">Hola 👋, soy Lorena</h1>
+<h1 align="center">Hola <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> , soy Lorena</h1>
 
 
-<h3 align="center">Una apasionada developer de Argentina</h3>
+<h3 align="center">Desarrolladora web de Argentina</h3>
 
-- 🌱 Actualmente estoy aprendiendo **desarrollo web full stack**
+- 🌱 Actualmente estoy aprendiendo **desarrollo web full stack en Digital House**
 
 - ⚡ Un poco más sobre mí: **Me encanta leer, participar en maratones de lectura, las manualidades y la jardinería.**
 
 <h3 align="left">Encuéntrame en :</h3>
 <p align="left">
   <p align="center">
-  <a target="_blank"href="https://linkedin.com/in/lorena cohene baez"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt="lorena cohene baez" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:loreley.cb15@gmail.com?Subject=Hola%vengo%de&GitHub"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="lorena cohene baez" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank"href="https://www.linkedin.com/in/lorenacohenebaez/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt="lorena cohene baez" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:loreley.cb15@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="lorena cohene baez" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://github.com/LorenaCoheneBaez"><img src="https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=GitHub&logoColor=white alt="lorena cohene baez" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 </p>
@@ -38,6 +38,3 @@
 <h3 align="left">Proyecto destacado:</h3>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ScuderiFernando&repo=grupo_8_LEAF&theme=tokyonight)](https://github.com/ScuderiFernando/grupo_8_LEAF)
-
-
-

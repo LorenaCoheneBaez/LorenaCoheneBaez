@@ -3,11 +3,11 @@
 
 <h3 align="center">Desarrolladora web Full Stack de Argentina</h3>
 
+- 🌱 Actualmente estoy aprendiendo **Java con #Yo programo, de Argentina Programa.** Además de **C# en ConoSur Tech.**
+
 - 🚀 Estudié **programación web full stack en Digital House, utilizando HTML5, CSS3, JavaScript, Node.js, Express, Bootstrap, MySQL.**
 
 - 📌 Me inicié en **Python con IEEE ITBA.**
-
-- 🌱 Actualmente estoy aprendiendo **Java con #Yo programo, de Argentina Programa.** Además de **C# en ConoSur Tech.**
 
 - ⚡ Un poco más sobre mí: **Me encanta leer, participar en maratones de lectura, las manualidades y la jardinería.**
 

@@ -62,7 +62,8 @@
 <h3 align="left">Lenguajes más usados:</h3>
 <p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lorenacohenebaez&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="lorenacohenebaez" /></p>
 <br/>
-<h3 align="left">Proyecto destacado:</h3>
+<h3 align="left">Proyectos destacados:</h3>
 <p align="center"> 
-  <a href="https://github.com/Leaf-libreria/grupo_8_LEAF" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Leaf-libreria&repo=grupo_8_LEAF&theme=tokyonight"></a>
+  <a href="https://github.com/Leaf-libreria/grupo_8_LEAF" target="_blank"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Leaf-libreria&repo=grupo_8_LEAF&theme=tokyonight"></a>
+  <a href="https://github.com/LorenaCoheneBaez/star-wars-planets" target="_blank"><img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=LorenaCoheneBaez&repo=star-wars-planets&theme=tokyonight"></a>
 </p>

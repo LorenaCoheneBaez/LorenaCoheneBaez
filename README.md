@@ -32,8 +32,6 @@
     <a href="https://nodejs.org" target="_blank" data-bs-toggle="tooltip" title="NodeJS"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
   <!–– PYTHON ––>
   <a href="https://www.python.org" target="_blank" data-bs-toggle="tooltip" title="Python"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="java" width="40" height="40"/> </a> 
-  <!–– JAVA ––>
-  <a href="https://www.java.com/es" target="_blank" data-bs-toggle="tooltip" title="Java"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
   <!–– HTML ––>
    <a href="https://www.w3.org/html/" target="_blank" data-bs-toggle="tooltip" title="HTML5"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
     <!–– REACT ––>

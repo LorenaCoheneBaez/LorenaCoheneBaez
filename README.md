@@ -1,4 +1,4 @@
-<h1 align="center">Hola <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> , soy Lorena</h1>
+<h1 align="center">Hola <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="19px" height="29px"> , soy Lorena</h1>
 
 
 <h3 align="center">Desarrolladora web Full Stack de Argentina</h3>

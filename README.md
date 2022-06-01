@@ -1,11 +1,8 @@
 <h1 align="center">Hola <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="19px" height="29px"> , soy Lorena</h1>
 
-
 <h3 align="center">Desarrolladora web Full Stack de Argentina</h3>
 
-- 📌  Actualmente  en **React Js con Codo a Codo.**
-
-- 🌱 Estoy aprendiendo **Java con #Yo programo, de Argentina Programa.**
+- 🌱  Actualmente continuo capacitándome en **React Js con Codo a Codo.**
 
 - 🚀 Estudié **programación web full stack en Digital House, utilizando HTML5, CSS3, JavaScript, Node.js, Express, Bootstrap, MySQL.**
 

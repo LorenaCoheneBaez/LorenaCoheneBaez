@@ -34,15 +34,16 @@
 <a href="https://www.mysql.com/" alt="MYSQL" data-bs-toggle="tooltip" title="MYSQL" ><img src= "https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" /></a>
 <!–– REACT ––>
   <a href="https://reactjs.org/" target="_blank" data-bs-toggle="tooltip" title="ReactJS"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react"/> </a>
+ <!–– REACT NATIVE––>
+  <a href="https://reactjs.org/" target="_blank" data-bs-toggle="tooltip" title="REACT NATIVE"> <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react native"/> </a>
 <!-- HTML -->
 <a href="https://developer.mozilla.org/es/docs/Web/HTML" alt="HTML5" data-bs-toggle="tooltip" title="HTML" ><img src= "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></a>
 <!–– CSS ––>
 <a href="https://www.w3schools.com/css/" target="_blank" data-bs-toggle="tooltip" title="CSS3"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3"/> </a>
 <!–– SASS ––>
 <a href="https://sass-lang.com" target="_blank" data-bs-toggle="tooltip" title="SASS"> <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SASS"/></a>
+<!–– BOOTSTRAP ––>
+<a href="https://getbootstrap.com/docs/5.0/getting-started/introduction/" target="_blank" data-bs-toggle="tooltip" title="BOOTSTRAP"> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="BOOTSTRAP"/></a>
+<!–– MATERIAL UI ––>
+<a href="https://mui.com/" target="_blank" data-bs-toggle="tooltip" title="MATERIAL UI"> <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="MATERIAL UI"/></a>
   </p>
-
-
-<h3 align="left">Lenguajes más usados:</h3>
-<p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lorenacohenebaez&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="lorenacohenebaez" /></p>
-

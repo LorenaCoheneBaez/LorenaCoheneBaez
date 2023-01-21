@@ -2,6 +2,8 @@
 
 <h3 align="center">Desarrolladora web Full Stack de Argentina</h3>
 
+- 👩🏾‍💻 Actualmente realizo el preingreso a la **tecnicatura superior en desarrollo de software.**
+
 - 🚀 Estudié **programación web full stack en Digital House, utilizando HTML5, CSS3, JavaScript, Node.js, Express, Bootstrap, MySQL.**
 
 - ⚡ Un poco más sobre mí: **Me encanta leer, participar en maratones de lectura, las manualidades y la jardinería.**

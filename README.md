@@ -1,8 +1,8 @@
 <h1 align="center">Hola <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="19px" height="29px"> , soy Lorena</h1>
 
-<h3 align="center">Desarrolladora web Full Stack de Argentina</h3>
+<h3 align="center">Desarrolladora web Frontend de Argentina</h3>
 
-- 👩🏾‍💻 Estoy aprendiendo **NestJs y typeScript.**
+- 👩🏾‍💻 En breve comienzo la **tecnicatura en desarrollo de software del Instituto de formacion técnica superior N° 29.**
 
 - 🚀 Estudié **programación web full stack en Digital House, utilizando HTML5, CSS3, JavaScript, Node.js, Express, Bootstrap, MySQL.**
 
@@ -29,9 +29,11 @@
 <!-- EXPRESS -->
 <a href="https://developer.mozilla.org/es/docs/Learn/Server-side/Express_Nodejs/Introduction" alt="Express Js" data-bs-toggle="tooltip" title="EXPRESS" ><img src= "https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" /></a>
  <!–– PYTHON ––>
-  <a href="https://www.python.org/" target="_blank" data-bs-toggle="tooltip" title="Python"> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python"/></a>
+ <!-- <a href="https://www.python.org/" target="_blank" data-bs-toggle="tooltip" title="Python"> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python"/></a> -->
 <!-- MYSQL -->
-<a href="https://www.mysql.com/" alt="MYSQL" data-bs-toggle="tooltip" title="MYSQL" ><img src= "https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" /></a>
+<!--<a href="https://www.mysql.com/" alt="MYSQL" data-bs-toggle="tooltip" title="MYSQL" ><img src= "https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" /></a> -->
+<!-- TYPESCRIPT -->
+  <a href="https://www.typescriptlang.org/" alt="TypeScript" data-bs-toggle="tooltip" title="TypeScript" ><img src= "https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /></a>
 <!–– REACT ––>
   <a href="https://reactjs.org/" target="_blank" data-bs-toggle="tooltip" title="ReactJS"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react"/> </a>
  <!–– REACT NATIVE––>
@@ -46,4 +48,9 @@
 <a href="https://getbootstrap.com/docs/5.0/getting-started/introduction/" target="_blank" data-bs-toggle="tooltip" title="BOOTSTRAP"> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="BOOTSTRAP"/></a>
 <!–– MATERIAL UI ––>
 <a href="https://mui.com/" target="_blank" data-bs-toggle="tooltip" title="MATERIAL UI"> <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="MATERIAL UI"/></a>
+  <!–– xcode ––>
+<a href="https://developer.apple.com/xcode/" target="_blank" data-bs-toggle="tooltip" title="Xcode"> <img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white" alt="Xcode"/></a>
+ <!–– Android Studio ––>
+<a href="https://developer.apple.com/Android Studio/" target="_blank" data-bs-toggle="tooltip" title="Android Studio"> <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio"/></a>
+  
   </p>

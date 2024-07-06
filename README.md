@@ -1,6 +1,6 @@
 <h1 align="center">Hola <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="19px" height="29px"> , soy Lorena</h1>
 
-<h3 align="center">Desarrolladora web Frontend de Argentina</h3>
+<h3 align="center">Desarrolladora Frontend de Argentina</h3>
 
 - 👩🏾‍💻 En breve comienzo la **tecnicatura en desarrollo de software del Instituto de formacion técnica superior N° 29.**
 

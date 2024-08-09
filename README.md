@@ -2,7 +2,7 @@
 
 <h3 align="center">Desarrolladora Frontend de Argentina</h3>
 
-- 👩🏾‍💻 En breve comienzo la **tecnicatura en desarrollo de software del Instituto de formacion técnica superior N° 29.**
+- 👩🏾‍💻 Cursando la **tecnicatura en desarrollo de software del Instituto de formacion técnica superior N° 29.**
 
 - 🚀 Estudié **programación web full stack en Digital House, utilizando HTML5, CSS3, JavaScript, Node.js, Express, Bootstrap, MySQL.**
 

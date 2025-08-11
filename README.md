@@ -2,7 +2,7 @@
 
 <h3 align="center">Desarrolladora de software de Argentina</h3>
 
-- 👩🏾‍💻 Cursando la **tecnicatura en desarrollo de software del Instituto de formacion técnica superior N° 29.**
+- 👩🏾‍💻 Cursando el 2° año de la **tecnicatura en desarrollo de software del Instituto de formacion técnica superior N° 29.**
 
 - 🚀 Estudié **programación web full stack en Digital House, utilizando HTML5, CSS3, JavaScript, Node.js, Express, Bootstrap, MySQL.**
 
